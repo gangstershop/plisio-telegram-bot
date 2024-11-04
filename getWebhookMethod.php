@@ -2,8 +2,8 @@
 // Load composer
 require __DIR__ . '/vendor/autoload.php';
 
-$bot_api_key  = 'your_api_key';
-$bot_username = 'your_bot_username';
+$bot_api_key  = '7530642477:AAGE15ZpKwqV_IgVH_eBDyGmbJn-XX-f1RQ';
+$bot_username = 'GangsterShopbot';
 
 // Define all paths for your custom commands in this array (leave as empty array if not used)
 $commands_paths = [
