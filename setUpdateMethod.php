@@ -7,7 +7,7 @@ $bot_username = 'GangsterShopbot';
 $hook_url = 'https://railway.app/u/gangstershop/getWebhookMethod.php';
 
 Longman\TelegramBot\Request::setCustomBotApiUri(
-    $api_base_uri          = 'http://localhost:8081', // Default: https://api.telegram.org
+    $api_base_uri          = 'http://localhost:8080', // Default: https://api.telegram.org
     $api_base_download_uri = __DIR__ . '/files/your_api_key'     // Default: /file/bot{API_KEY}
 );
 
