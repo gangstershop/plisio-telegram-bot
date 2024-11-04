@@ -2,9 +2,9 @@
 // Load composer
 require __DIR__ . '/vendor/autoload.php';
 
-$bot_api_key  = 'your_api_key';
-$bot_username = 'your_bot_username';
-$hook_url = 'http://yoursite.com/getWebhookMethod.php';
+$bot_api_key  = '7530642477:AAGE15ZpKwqV_IgVH_eBDyGmbJn-XX-f1RQ';
+$bot_username = 'GangsterShopbot';
+$hook_url = 'https://railway.app/u/gangstershop/getWebhookMethod.php';
 
 Longman\TelegramBot\Request::setCustomBotApiUri(
     $api_base_uri          = 'http://localhost:8081', // Default: https://api.telegram.org
